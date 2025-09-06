@@ -1,6 +1,6 @@
 # AutoVision
 
-A Flutter-based application for drive safety and enhancement.
+A Flutter-based application for drive monitoring and safety enhancement.
 
 ## Features
 - Real-time object detection
