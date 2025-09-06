@@ -20,9 +20,9 @@ A Flutter-based application for drive safety and enhancement.
    flutter run
 
 5. Requirements:
-   Flutter SDK
-   Android Studio / VS Code with the flutter extension and Android SDK command line tools
-   Java JDK 17 or higher
+   5.1 Flutter SDK
+   5.2 Android Studio / VS Code with the flutter extension and Android SDK command line tools
+   5.3 Java JDK 17 or higher
 
 ## License
 This project is licensed under the Apache License 2.0.
